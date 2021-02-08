@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/hal_sumatra"
+            android:icon="@drawable/food"
+            android:title="@string/halaman_sumatra" />
+        <item
+            android:id="@+id/hal_jawa"
+            android:icon="@drawable/food"
+            android:title="@string/halaman_jawa" />
+        <item
+            android:id="@+id/hal_kalimantan"
+            android:icon="@drawable/food"
+            android:title="@string/halaman_kalimantan" />
+        <item
+            android:id="@+id/hal_sulawesi"
+            android:icon="@drawable/food"
+            android:title="@string/halaman_sulawesi" />
+        <item
+            android:id="@+id/hal_papua"
+            android:icon="@drawable/food"
+            android:title="@string/halaman_papua" />
+    </group>
+</menu>

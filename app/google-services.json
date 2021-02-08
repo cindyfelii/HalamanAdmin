@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358826773905",
+    "project_id": "halamanadmin1",
+    "storage_bucket": "halamanadmin1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358826773905:android:783a0a03080a2351245e30",
+        "android_client_info": {
+          "package_name": "com.farhan.halamanadmin1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358826773905-ds69eusnstc9vlltq99c08014gq9d9ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDamiSAGts_iKkjrA49QmqXhJ6fdb7royk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358826773905-ds69eusnstc9vlltq99c08014gq9d9ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

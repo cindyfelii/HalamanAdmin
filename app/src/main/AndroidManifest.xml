@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.farhan.halamanadmin1">
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HalamanAdmin1">
+        <activity android:name=".login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity"></activity>
+
+        <activity android:name=".riauu.Activity_ke2"></activity>
+        <activity android:name=".riauu.TambahRiau"></activity>
+
+        <activity android:name=".bantenn.Activity_ke3"></activity>
+        <activity android:name=".bantenn.TambahBanten"></activity>
+    </application>
+
+</manifest>
